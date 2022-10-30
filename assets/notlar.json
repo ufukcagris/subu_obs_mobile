@@ -1,0 +1,47 @@
+[
+  {
+    "dersAdi": "Yapay Zeka",
+    "dersKodu": "BM302",
+    "odevBir": "60",
+    "odevIki": "40",
+    "vizeSinavi": "50",
+    "finalSinavi": "70",
+    "toplamNot": "60"
+  },
+  {
+    "dersAdi": "Sayısal Tasarım",
+    "dersKodu": "BM402",
+    "odevBir": "70",
+    "odevIki": "85",
+    "vizeSinavi": "98",
+    "finalSinavi": "85",
+    "toplamNot": "90"
+  },
+  {
+    "dersAdi": "Mikroişlemciler",
+    "dersKodu": "BM200",
+    "odevBir": "50",
+    "odevIki": "45",
+    "vizeSinavi": "55",
+    "finalSinavi": "50",
+    "toplamNot": "50"
+  },
+  {
+    "dersAdi": "Paralel Programlama",
+    "dersKodu": "BM502",
+    "odevBir": "80",
+    "odevIki": "65",
+    "vizeSinavi": "65",
+    "finalSinavi": "70",
+    "toplamNot": "70"
+  },
+  {
+    "dersAdi": "Mobil Programlama",
+    "dersKodu": "BS302",
+    "odevBir": "100",
+    "odevIki": "100",
+    "vizeSinavi": "100",
+    "finalSinavi": "100",
+    "toplamNot": "100"
+  }
+]
