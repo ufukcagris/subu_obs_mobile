@@ -106,7 +106,6 @@ class _YemekMenuSayfasiState extends State<YemekMenuSayfasi> {
 
   Widget buildYemekMenu(List<YemekMenu> yemekMenu) {
     var ekranBilgisi = MediaQuery.of(context);
-    final double ekranYuksekligi = ekranBilgisi.size.height;
     final double ekranGenisligi = ekranBilgisi.size.width;
     return Swiper(
       itemBuilder: (context, index) {
@@ -223,7 +222,7 @@ class _YemekMenuSayfasiState extends State<YemekMenuSayfasi> {
                         children: [
                           Padding(
                             padding: const EdgeInsets.only(top: 10.0, left: 20),
-                            child: Text("İkinci Ana Yemek:",
+                            child: Text("2. Ana Yemek:",
                                 style: TextStyle(
                                     fontSize: ekranGenisligi/30,
                                     fontWeight: FontWeight.bold,

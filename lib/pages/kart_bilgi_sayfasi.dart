@@ -123,7 +123,7 @@ class _KartBilgiSayfasiState extends State<KartBilgiSayfasi> {
                       direction: FlipDirection.HORIZONTAL,
                       fill: Fill.fillBack,
                       front: Container(
-                        height: ekranGenisligi/2.0,
+                        height: ekranGenisligi/1.9,
                         width: ekranGenisligi/1.1,
                         decoration: const BoxDecoration(
                           color: Color(0xffffffff),
@@ -228,7 +228,7 @@ class _KartBilgiSayfasiState extends State<KartBilgiSayfasi> {
                                                     right: 1,
                                                     left: 15),
                                                 child: Text(
-                                                    "Son Harcama Tutarı       : ${kart.sonHarcamaTutari} TL",
+                                                    "Son Harcama Tutarı      : ${kart.sonHarcamaTutari} TL",
                                                     style:  TextStyle(
                                                         fontWeight: FontWeight.bold,
                                                         fontSize: ekranGenisligi/34,
@@ -241,7 +241,7 @@ class _KartBilgiSayfasiState extends State<KartBilgiSayfasi> {
                                                     right: 1,
                                                     left: 15),
                                                 child: Text(
-                                                    "Kart No                             : ${kart.kartNo}",
+                                                    "Kart No                            : ${kart.kartNo}",
                                                     style:  TextStyle(
                                                         fontWeight: FontWeight.bold,
                                                         fontSize: ekranGenisligi/34,
