@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"><span style="color: #99ccff;"><strong>Sakarya Uygulamalı Bilimler &Uuml;niversitesi Mobile &Ouml;ğrenci Bilgi Sistemi &Ccedil;alışmam (Demo)</strong></span></h1>
+<h1 style="text-align: center;"><span style="color: #99ccff;"><strong>Sakarya University Of Applied Sciences Mobile Student Information System (Demo)</strong></span></h1>
 <h2 style="text-align: center;"><em><span style="color: #99ccff;"><strong>Profile Page</strong></span></em></h2>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/51057559/223646195-5f8de27b-7985-4749-9a7e-98d695e5ed68.png" alt="" width="300" height="617" /></p>
 <h2 style="text-align: center;"><em><span style="color: #99ccff;"><strong>Drawer Zoom Menu</strong></span></em></h2>
