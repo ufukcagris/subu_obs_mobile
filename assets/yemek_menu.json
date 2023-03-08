@@ -1,0 +1,42 @@
+[
+  {
+    "gun": "Pazartesi",
+    "corba": "Domates Çorbası",
+    "anaYemek": "Misket Kebabı",
+    "yanYemek": "Pirinç Pilavı",
+    "garnitur": "Çoban Salata",
+    "ikinciAnaYemek": "Patlıcan Musakka"
+  },
+  {
+    "gun": "Salı",
+    "corba": "Şehriye Çorbası",
+    "anaYemek": "Tavuk Sote",
+    "yanYemek": "Bulgur Pilavı",
+    "garnitur": "Şakşuka",
+    "ikinciAnaYemek": "Etli Bezelye"
+  },
+  {
+    "gun": "Çarşamba",
+    "corba": "Mercimek Çorbası",
+    "anaYemek": "Etli Biber Dolma",
+    "yanYemek": "Peynirli Su Böreği",
+    "garnitur": "Cacık",
+    "ikinciAnaYemek": "Karnıyarık"
+  },
+  {
+    "gun": "Perşembe",
+    "corba": "Ezogelin Çorbası",
+    "anaYemek": "Soslu Biftek",
+    "yanYemek": "Şeh. Pirinç Pilavı",
+    "garnitur": "Yoğurtlu Kapya Biber",
+    "ikinciAnaYemek": "Islama Köfte"
+  },
+  {
+    "gun": "Cuma",
+    "corba": "Kremalı Mantar Çorbası",
+    "anaYemek": "Etli Bamya",
+    "yanYemek": "Soslu Makarna",
+    "garnitur": "Kakaolu Puding",
+    "ikinciAnaYemek": "İzmir Köfte"
+  }
+]

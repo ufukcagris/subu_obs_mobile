@@ -1,0 +1,98 @@
+[
+  {
+    "dersKodu": "BM302",
+    "dersAdi": "Yapay Zeka",
+    "puanStr": "Başarı Puanı:",
+    "puan": "60",
+    "harfStr": "Harf Notu:",
+    "harfNotu": "BB"
+  },
+  {
+    "dersKodu": "BM402",
+    "dersAdi": "Sayısal Tasarım",
+    "puanStr": "Başarı Puanı:",
+    "puan": "90",
+    "harfStr": "Harf Notu:",
+    "harfNotu": "AA"
+  },
+  {
+    "dersKodu": "BM322",
+    "dersAdi": "Mikroişlemciler",
+    "puanStr": "Başarı Puanı:",
+    "puan": "50",
+    "harfStr": "Harf Notu:",
+    "harfNotu": "CB"
+  },
+  {
+    "dersKodu": "BM502",
+    "dersAdi": "Paralel Programlama",
+    "puanStr": "Başarı Puanı:",
+    "puan": "70",
+    "harfStr": "Harf Notu:",
+    "harfNotu": "BB"
+  },
+  {
+    "dersKodu": "BS302",
+    "dersAdi": "Mobil Programlama",
+    "puanStr": "Başarı Puanı:",
+    "puan": "100",
+    "harfStr": "Harf Notu:",
+    "harfNotu": "AA"
+  },
+  {
+    "dersKodu": "BS402",
+    "dersAdi": "Görsel Programlamaya Giriş",
+    "puanStr": "Başarı Puanı:",
+    "puan": "80",
+    "harfStr": "Harf Notu:",
+    "harfNotu": "BA"
+  },
+  {
+    "dersKodu": "BS522",
+    "dersAdi": "Otomasyon Sistemleri",
+    "puanStr": "Başarı Puanı:",
+    "puan": "85",
+    "harfStr": "Harf Notu:",
+    "harfNotu": "BA"
+  },
+  {
+    "dersKodu": "BS102",
+    "dersAdi": "Sinyaller ve Sistemler",
+    "puanStr": "Başarı Puanı:",
+    "puan": "45",
+    "harfStr": "Harf Notu:",
+    "harfNotu": "DD"
+  },
+  {
+    "dersKodu": "BM110",
+    "dersAdi": "Kontrol Sistemleri",
+    "puanStr": "Başarı Puanı:",
+    "puan": "50",
+    "harfStr": "Harf Notu:",
+    "harfNotu": "CC"
+  },
+  {
+    "dersKodu": "BS500",
+    "dersAdi": "Bitirme Projesi",
+    "puanStr": "Başarı Puanı:",
+    "puan": "95",
+    "harfStr": "Harf Notu:",
+    "harfNotu": "AA"
+  },
+  {
+    "dersKodu": "BM102",
+    "dersAdi": "Web Programlama",
+    "puanStr": "Başarı Puanı:",
+    "puan": "75",
+    "harfStr": "Harf Notu:",
+    "harfNotu": "BB"
+  },
+  {
+    "dersKodu": "BM404",
+    "dersAdi": "Staj",
+    "puanStr": "Başarı Puanı:",
+    "puan": "100",
+    "harfStr": "Harf Notu:",
+    "harfNotu": "AA"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "gun": "Pazartesi",
+    "dersSaati": "09:00 - 11:00",
+    "dersKodu": "BM302",
+    "dersAdi": "Yapay Zeka",
+    "ogretmen": "F. Baturalp GÜNAY",
+    "derslik": "D12",
+    "grup": "A"
+  },
+  {
+    "gun": "Salı",
+    "dersSaati": "09:00 - 11:00",
+    "dersKodu": "BM402",
+    "dersAdi": "Sayısal Tasarım",
+    "ogretmen": "Bilal USANMAZ",
+    "derslik": "TRS2",
+    "grup": "B"
+  },
+  {
+    "gun": "Çarşamba",
+    "dersSaati": "09:00 - 11:00",
+    "dersKodu": "BM502",
+    "dersAdi": "Paralel Programlama",
+    "ogretmen": "Deniz DAL",
+    "derslik": "TRS1",
+    "grup": "B"
+  },
+  {
+    "gun": "Perşembe",
+    "dersSaati": "19:00 - 11:00",
+    "dersKodu": "BS402",
+    "dersAdi": "Görsel Programlama",
+    "ogretmen": "Mete YAĞANOĞLU",
+    "derslik": "E1",
+    "grup": "A"
+  },
+  {
+    "gun": "Cuma",
+    "dersSaati": "09:00 - 11:00",
+    "dersKodu": "BM402",
+    "dersAdi": "Sayısal Tasarım",
+    "ogretmen": "Bilal USANMAZ",
+    "derslik": "TRS2",
+    "grup": "B"
+  },
+  {
+    "gun": "Pazartesi",
+    "dersSaati": "12:00 - 14:00",
+    "dersKodu": "BS302",
+    "dersAdi": "Mobil Programlama",
+    "ogretmen": "M. Bilal Kamburoğlu",
+    "derslik": "TRS1",
+    "grup": "A"
+  },
+  {
+    "gun": "Salı",
+    "dersSaati": "12:00 - 14:00",
+    "dersKodu": "BM302",
+    "dersAdi": "Yapay Zeka",
+    "ogretmen": "F. Baturalp GÜNAY",
+    "derslik": "D12",
+    "grup": "A"
+  },
+  {
+    "gun": "Çarşamba",
+    "dersSaati": "12:00 - 14:00",
+    "dersKodu": "BS402",
+    "dersAdi": "Görsel Programlama",
+    "ogretmen": "Mete YAĞANOĞLU",
+    "derslik": "E1",
+    "grup": "A"
+  },
+  {
+    "gun": "Perşembe",
+    "dersSaati": "12:00 - 14:00",
+    "dersKodu": "BS302",
+    "dersAdi": "Mobil Programlama",
+    "ogretmen": "M. Bilal Kamburoğlu",
+    "derslik": "TRS1",
+    "grup": "A"
+  },
+  {
+    "gun": "Cuma",
+    "dersSaati": "12:00 - 14:00",
+    "dersKodu": "BM302",
+    "dersAdi": "Yapay Zeka",
+    "ogretmen": "F. Baturalp GÜNAY",
+    "derslik": "D12",
+    "grup": "A"
+  },
+  {
+    "gun": "Pazartesi",
+    "dersSaati": "15:00 - 17:00",
+    "dersKodu": "BM502",
+    "dersAdi": "Paralel Programlama",
+    "ogretmen": "Deniz DAL",
+    "derslik": "TRS1",
+    "grup": "B"
+  },
+  {
+    "gun": "Salı",
+    "dersSaati": "15:00 - 17:00",
+    "dersKodu": "BS402",
+    "dersAdi": "Görsel Programlama",
+    "ogretmen": "Mete YAĞANOĞLU",
+    "derslik": "E1",
+    "grup": "A"
+  },
+  {
+    "gun": "Çarşamba",
+    "dersSaati": "15:00 - 17:00",
+    "dersKodu": "BM402",
+    "dersAdi": "Sayısal Tasarım",
+    "ogretmen": "Bilal USANMAZ",
+    "derslik": "TRS2",
+    "grup": "B"
+  },
+  {
+    "gun": "Perşembe",
+    "dersSaati": "15:00 - 17:00",
+    "dersKodu": "BM302",
+    "dersAdi": "Yapay Zeka",
+    "ogretmen": "F. Baturalp GÜNAY",
+    "derslik": "D12",
+    "grup": "A"
+  },
+  {
+    "gun": "Cuma",
+    "dersSaati": "15:00 - 17:00",
+    "dersKodu": "BM502",
+    "dersAdi": "Paralel Programlama",
+    "ogretmen": "Deniz DAL",
+    "derslik": "TRS1",
+    "grup": "B"
+  }
+]
